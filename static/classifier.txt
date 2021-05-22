@@ -1,0 +1,1 @@
+//static folder to save uploaded images

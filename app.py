@@ -11,7 +11,7 @@ from keras.preprocessing import image
 
 app = Flask(__name__)
 
-dic = {0 : 'mango', 1 : 'jackfruit'}
+dic = {1 : 'mango', 0 : 'jackfruit'}
 
 model = load_model('model.h5')
 

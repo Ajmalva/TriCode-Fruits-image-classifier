@@ -2,7 +2,7 @@
 """
 Created on Wed May 19 17:53:46 2021
 
-@author: AJU - PXC
+@author: Ajmal.VA
 """
 
 from flask import Flask, render_template, request
@@ -32,7 +32,7 @@ def main():
 
 @app.route("/about")
 def about_page():
-	return "Please subscribe  Artificial Intelligence Hub..!!!"
+	return "A binary image classifier to accept user input as image and predict wheather it's a mango or jackfruit. Created and collaborated by Ajmal.Va, Alvin Antony Ms, Ancy Paul for the TinkerHub Build From Home Event."
 
 @app.route("/submit", methods = ['GET', 'POST'])
 def get_output():

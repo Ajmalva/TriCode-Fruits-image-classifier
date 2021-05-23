@@ -341,5 +341,8 @@ a.article:hover {
    margin-left: auto;
    margin-right: auto;
    margin-top: 50px;
+   height: auto;
+   width:100%;
+   max-width:400px;
 }
     

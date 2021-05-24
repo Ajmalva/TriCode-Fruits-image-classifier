@@ -26,7 +26,8 @@ Build a pair of Python scripts that run from the command line to run the image c
      BFH/recSYFS77S94PHQFg/2021
 
 ## Link to product walkthrough :tv:
-![Watch the video](https://i.imgur.com/ruvUkkb.png)](https://qrgo.page.link/wPBxC)
+![Watch the video](https://i.imgur.com/ruvUkkb.png)
+(https://qrgo.page.link/wPBxC)
 
 ## Live URL :satellite:
 We have deployed the current model to Heroku

@@ -7,7 +7,7 @@ https://tricode.herokuapp.com/
 ![BFH Banner](https://trello-attachments.s3.amazonaws.com/542e9c6316504d5797afbfb9/542e9c6316504d5797afbfc1/39dee8d993841943b5723510ce663233/Frame_19.png)
 # TriCode
 
-In this project, I built a python application that uses a train image classifier model on a dataset, then predict the class of new images The project was devided to two parts.
+In this project, I built a python application that uses a train image classifier model on a dataset, then predict the class of new images This project is divided to two parts:
 
 ##### Part 1 - Developing an Image Classifier in colab
 

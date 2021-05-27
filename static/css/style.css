@@ -283,8 +283,9 @@ a.article:hover {
     font-size: 0.8rem;
     color: #666666;
     cursor: pointer;
-    width: 16rem;
-    height: 10rem;
+    width:100%;
+    max-width:400px;
+    height: 16rem;
     background: #fff;
     border: 0.1rem dashed #838388;
     border-radius: 0.4rem;
@@ -308,8 +309,8 @@ a.article:hover {
   }
   
   .upload-box #image-preview {
-    max-width: 14rem;
-    max-height: 8rem;
+    max-width: 20rem;
+    max-height: 20rem;
     box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.2), 0 6px 10px 0 rgba(0, 0, 0, 0.19);
   }
   

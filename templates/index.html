@@ -147,7 +147,7 @@
             <div class="panel">
                 <input id="file-upload" class="hidden" type="file" accept="image/x-png,image/gif,image/jpeg" placeholder="Hours Studied"  name="my_image" />
                 <label for="file-upload" id="file-drag" class="upload-box">
-                  <div id="upload-caption">Click to select image</div>
+                  <div id="upload-caption" style="text-align: center;">Click to select an image of Mango or JackFruit</div>
                   <img id="image-preview" class="hidden" />
                 </label>
               </div>
@@ -164,8 +164,7 @@
             <img class="center" src="{{img_path}}" >
             <br>
             <h2 style="text-align: center;" font-family=" 'Courier New', monospace;"> I think its a : <i> {{prediction}} </i></h2>
-            
-              {% endif %}
+			  {% endif %}
         </div>
         </div>
     </div>
